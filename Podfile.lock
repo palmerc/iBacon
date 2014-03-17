@@ -1,0 +1,14 @@
+PODS:
+  - EstimoteSDK (1.1.0)
+
+DEPENDENCIES:
+  - EstimoteSDK (from `https://github.com/Estimote/iOS-SDK.git`)
+
+EXTERNAL SOURCES:
+  EstimoteSDK:
+    :git: https://github.com/Estimote/iOS-SDK.git
+
+SPEC CHECKSUMS:
+  EstimoteSDK: 3c508f2aa216f68ce31b23cb8bb57933eb138289
+
+COCOAPODS: 0.28.0
